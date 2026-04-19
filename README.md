@@ -13,25 +13,14 @@ Soy desarrollador de software y me apasiona crear aplicativos web visualmente at
   
 - 📫 Social links
 <p align="center">
-  <a href="mailto:abdallahelsawy706@gmail.com" target="_blank">
+  <a href="grismaldo27@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
-  <a href="https://github.com/abdallah-el-sawy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-  <a href="https://wa.me/0201027173150" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/abdallah-elsawy-212479320/" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-grismaldo-8a85aa241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="https://www.facebook.com/abdallah.elsawy.524" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
 </p>
 
 ### 🛠 &nbsp;Technologies that I work with
